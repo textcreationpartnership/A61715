@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Earle of Straffords letter to his lady sent by a trvsty messenger, with his prayer on the scaffold at Tower Hill, 12. of May 1641.</title>
+            <author>Strafford, Thomas Wentworth, Earl of, 1593-1641.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61715</idno>
+            <idno type="STC">Wing S5788</idno>
+            <idno type="STC">ESTC R22373</idno>
+            <idno type="EEBO-CITATION">12232641</idno>
+            <idno type="OCLC">ocm 12232641</idno>
+            <idno type="VID">56642</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61715)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56642)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 616:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Earle of Straffords letter to his lady sent by a trvsty messenger, with his prayer on the scaffold at Tower Hill, 12. of May 1641.</title>
+                  <author>Strafford, Thomas Wentworth, Earl of, 1593-1641.</author>
+               </titleStmt>
+               <extent>[2], 6 p. : port.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1641]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Harvard University Libraries, Cambridge, Massachusetts.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:56642:1"/>
+            <pb facs="tcp:56642:1" rendition="simple:additions"/>
+            <p>THE EARLE OF STRAFFORDS LETTER.</p>
+            <p>TO HIS LADY.</p>
+            <p>SENT BY A TRVSTY MESSENGER, WITH HIS PRAYER ON THE Scaffold at Tower hill, 12. of May 1641.</p>
+            <figure>
+               <figDesc>depiction of Thomas Wentworth, Earl of Strafford</figDesc>
+               <head>Thomas Earle of Strafford L Leutenant of Ireland.</head>
+            </figure>
+            <pb facs="tcp:56642:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:56642:2"/>
+            <head>A Letter ſent from the Earl of Strafford, to his Lady into Ireland a little before his death May, the 11. 1641,</head>
+            <p>YOu ſhall receive, my deare Wife, my laſt words in theſe my laſt times: my love I ſend that you may keep it when I am dead: And my Counſell, that you may remember it when I am no more. I would not with my will preſent you ſorrowes (deare Wife) let them goe to the grave with mee, and bee buried in the duſt, and ſee<g ref="char:EOLhyphen"/>ing it is not the will of God, that I ſhall ſee you any more, beare my diſtruction patiently, and with an heart like your ſelfe.</p>
+            <p>Firſt, I ſend you all the thankes, which my heart can conceive, or my words expreſſe:
+<pb n="2" facs="tcp:56642:3"/> for your many travels and cares for me, which though they have not taken effect as you wi<g ref="char:EOLhyphen"/>ſhed, yet my debt to you is noe leſſe: but pay it, I never ſhall in this world.</p>
+            <p>Secondly, I beſeech you for the love you beare mee living, that you doe not hide your ſelfe many dayes, but by your travell ſeeke to helpe the miſerable fortune, and the right of your poore Children; your mourning cannot availe any thing that am but duſt.</p>
+            <p>Thirdly, you ſhall underſtand, that my Lands were conveyed <hi>(bona fide)</hi> unto my Son, the Writings were drawne at Midſomer was a twelve-moneth, as diverſe can witneſſe, and I truſt my blood will quench their malice, who deſire my ſlaughter: and that they will not ſeeke alſo you, and yours, to kill with extreme povertie. To what friend to direct you know not, for all mine have left mee in the true time of triall: moſt ſorrie am I, I that beeing thus ſurprized by death; I can leave you no better Eſtate: God hath prevented all my determinations, that great God that wor<g ref="char:EOLhyphen"/>keth all in all, and if you can live free from want, care for no more, for the reſt is but vanitie.</p>
+            <pb n="3" facs="tcp:56642:3"/>
+            <p> Love God, and beginne betimes in him, ſo ſhall you finde true and everlaſting com<g ref="char:EOLhyphen"/>fort, when you have travelled, and wearied your ſelfe: with all ſorts of worldly cogita<g ref="char:EOLhyphen"/>tions, you ſhall ſit downe with ſorrow in the end.</p>
+            <p>Teach your Sonne alſo to feare and ſerve God, whilſt hee is young, that the feare of God may grow upon him, then will God bee an Husband to you, and a Father to him, and a Husband and Father, that never can bee ta<g ref="char:EOLhyphen"/>ken away from you.</p>
+            <p>
+               <hi>Balo</hi> oweth me 1000. li. and <hi>Adrian</hi> 1000. li. in Iernſey, I have alſo much owing mee.</p>
+            <p>Deere wife I beſeech you for my ſoules ſake pay all poore men when I am dead: no doubt you ſhall be much ſought unto, for the world thinkes I was very rich, have a care to the faire pretence of men, for no greater miſery can be<g ref="char:EOLhyphen"/>fall you in this life, then to become a pray unto the world, and after to bee deſpiſed, I ſpeake God knowes not to diſſwade you from Marry<g ref="char:EOLhyphen"/>ing againe, for that will bee the beſt for you, both in reſpect of God and of the world; as for me, I am no more yours, nor you mine, Death hath cut us aſunder, and God hath divided me
+<pb n="4" facs="tcp:56642:4"/> from the world, and you from me: Remember my Child, for his fathers ſake who loved you in his happieſt eſtate; I ſued for my life, but God knowes it was for you and yours that I de<g ref="char:EOLhyphen"/>ſired it: for know it deare wife your Child is the ſonne of a true man, who in his owne re<g ref="char:EOLhyphen"/>ſpect deſpiſeth death.</p>
+            <p>I cannot write much, God knowes how hardly I ſteale time when all are aſleepe, and it is alſo time to ſeparate my ſelfe from the world.</p>
+            <p>Begge my dead body, which living was de<g ref="char:EOLhyphen"/>nyed, and either lay it in <hi>Aleanne</hi> or <hi>Antley,</hi> by my Father and Mother.</p>
+            <p>I can ſay no more, Time and Death calls me away.</p>
+            <p>The everlaſting God, powerfull infinite and inſcrutable, God Almighty who is goodneſſe it ſelfe, keepe you and yours, and have mercy upon me, and forgive me and my proſecutors and falſe accuſers, and ſend us to meete in his glorious Kingdome.</p>
+            <closer>
+               <salute>My deare Wife</salute> farewell, Bleſſe my Boy, pray for me, and let my true God hold you both in his Armes.</closer>
+         </div>
+         <div type="scaffold_prayer">
+            <pb n="8" facs="tcp:56642:4"/>
+            <head>
+               <hi>THE PRAYER MADE BY THE Earle of Strafford at</hi> Tower hill when he depar<g ref="char:EOLhyphen"/>ted this life, 12. of <hi>May,</hi> 1641.</head>
+            <p>O Most mercifull father, I thy unworthyeſt of ſeruants, doe moſt humbly proſtrate my ſelfe before the throne of thy heavenly Maiesty, and this multitude of people here aſſembled to ſee me ſuffer, befeeching thee of thy infinite goodneſſe to re<g ref="char:EOLhyphen"/>ceiue (when my head ſhall be divided from my body) at this instant this diſtreſſed ſoule of mine into thy heaaenly kingdome, and becauſe the houre of my death is appointed, and the date of my life determined, at
+<pb n="6" facs="tcp:56642:5" rendition="simple:additions"/> that houre let thy heavenly providence (I beſeech thee O Lord) ſo guid me, that I ſwerue not from the truth in this my last Prayer.</p>
+            <p>And I beſeech thee O Lord, from the bended knees of my heart, as well as of my body, before this multi<g ref="char:EOLhyphen"/>tude of people, to i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fuſe th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> holy ſpirit in<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o me, (that it may ſeale unto my ſoule <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he free pardon and forgiue<g ref="char:EOLhyphen"/>neſse of all my ſinnes, which cry for vengeance from the righteous Iudge of heaven and earth, and let mee with the pennitent theife on the Croſſe finde as thon anſwered him, this preſent day I confidently beleeve I ſhall ſee my Lord and ſauiour in the Kingdome of heaven, where all conſolation and ioy is forever remai<g ref="char:EOLhyphen"/>ning, and into whoſe preſence I come, I come, Lord Ieſus receive my ſinfull ſoule. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="letter">
+            <head>A Letter to a Lady.</head>
+            <opener>
+               <salute>MAdam,</salute>
+            </opener>
+            <p>Although there be ſome diſcovery made knowne, yet what we intend <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s ſe<g ref="char:EOLhyphen"/>cure; you muſt ſend two thouſand pounds ſpee<g ref="char:EOLunhyphen"/>dily; no danger, leſſe difficult to compaſſe as yet; you muſt remaine ſecret; Remember your oath; we ſhall ſlay the Beaſt with many heads, and deſtroy the Devills brood, before they dreame or miſtruſt; burne this Letter; your re<g ref="char:EOLhyphen"/>ward ſhall be in heaven.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:56642:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
